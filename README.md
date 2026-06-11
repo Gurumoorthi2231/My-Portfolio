@@ -57,4 +57,4 @@ Aspiring Data Analyst with strong practical knowledge of SQL, Python, Excel, Pow
 ---
 
 ## 🔗 Live Portfolio
-You can link your live GitHub Pages portfolio here once deployed:  
+You can link your live GitHub Pages portfolio here once deployed:  gurupf.netlify.app
